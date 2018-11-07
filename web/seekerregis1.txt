@@ -1,0 +1,17 @@
+<div>
+
+<div id="speechbubble1" class="speechbubbles">
+* Minimum 6 Characters
+<br />* Make sure Caps Lock is off
+</div>
+
+<div id="speechbubble2" class="speechbubbles">
+* Enter a 10 digits valid number.
+</div>
+
+
+</div>
+
+</div>
+
+</div>

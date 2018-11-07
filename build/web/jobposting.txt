@@ -1,0 +1,16 @@
+<div>
+
+<div id="speechbubble1" class="speechbubbles">
+* Alphabets only.
+</div>
+
+<div id="speechbubble2" class="speechbubbles">
+* Enter a 10 digits valid number.
+</div>
+
+
+</div>
+
+</div>
+
+</div>

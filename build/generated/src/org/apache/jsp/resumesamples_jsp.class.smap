@@ -1,0 +1,14 @@
+SMAP
+resumesamples_jsp.java
+JSP
+*S JSP
+*F
++ 0 resumesamples.jsp
+resumesamples.jsp
+*L
+1,42:53
+44,4:97
+47:101
+48:102,3
+49,105:105
+*E
